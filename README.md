@@ -2,7 +2,7 @@
 Proyectos del curso - Node
 
 Temas abordados:
-  - Node, Mongo, Heroku, Git, GitHub, Sockets, archivos, JWT y entre otros.
+  - Node, Mongo, SQLserver, Heroku, Git, GitHub, Sockets, archivos, JWT y entre otros.
   - Crear backend server.
   - Subir y administrar archivos en el servidor.
   - Despliegues en Heroku.
